@@ -63,9 +63,9 @@ The code in this repository should never be used for malicious or illegal activi
 
 ### Note
 
-- Also change the fields **your email** and **Bitcoin Adress** fiels in the code.
+- Also change the fields **your email** and **Bitcoin Adress** in the code.
 - Also please note that you will need to add the image link to the code for the wallpaper that you will need to upload somewhere. (the image is in the repository)
-- The script sends encryption keys and unique IDs to a specified Telegram bot. Ensure that you configure the `bot_token` and `chat_ids` in the script if you wish to use this feature.
+- The script sends encryption keys and unique IDs to a specified Telegram bot. Ensure that you configure the `bot_token` and `chat_ids` in the script if you wish to use this feature (ofc you need to use it).
 - Be aware of ethical and legal considerations before running this script.
 
 ---
@@ -119,4 +119,6 @@ To learn more about ransomware and how to protect against it, check out these re
 ### 🚨 Use Responsibly
 
 This project is a tool for learning and awareness. Always use responsibly and report any misuse to the appropriate authorities.
+
+**LEAVE A STAR IF YOU WANT MORE STUFF LIKE THIS**
 
